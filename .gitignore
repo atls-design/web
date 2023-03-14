@@ -1,3 +1,6 @@
+# Wordpress
+themes/*/vendor
+
 # Logs
 logs
 *.log
